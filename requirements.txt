@@ -1,0 +1,3 @@
+pyTelegramBotAPI
+convertapi
+urllib3
